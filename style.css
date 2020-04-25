@@ -1,0 +1,51 @@
+html{
+    font-size: 12pt;
+    font-family: Arial;
+    padding: 0 20px;
+}
+
+h1{
+    color: #6666CC;
+}
+
+h2{
+    color: #9999FF;
+}
+
+.autor{
+    color: #808080;
+    font-family: 'Verdana';
+    font-size: 10pt;
+    font-weight: bold;
+    width: 170px;
+}
+
+.bolder{
+    font-weight: bold;
+}
+
+h3{
+    color: #6666CC;
+}
+
+.design{
+    margin-top: 35px;
+}
+
+.img-celular{
+    width: 480px;
+    height: 398px;
+    padding: 20px;
+    float: left;
+}
+
+a{
+    color: #FF0000;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.italico{
+    font-style: italic;
+    font-weight: bold;
+}
